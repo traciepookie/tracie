@@ -1,0 +1,23 @@
+
+#carousel-header {
+  -webkit-text-stroke: 1.3px black;
+  font-size: 3em;
+}
+
+#carousel-body {
+  -webkit-text-stroke: 0.8px black;
+  font-weight: 650;
+  font-size: 20px;
+}
+
+#center {
+  text-align: center;
+}
+
+#pad {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
